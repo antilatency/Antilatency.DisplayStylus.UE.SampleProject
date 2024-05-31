@@ -1,0 +1,7 @@
+[submodule "Plugins/AntilatencySDK"]
+	path = Plugins/AntilatencySDK
+	url = https://github.com/AntilatencySDK/Release_4.3.0.git
+	branch = subset-6c532c97373a2056951bb8d53bf6b6be3ba30b5c
+[submodule "Plugins/DisplayStylusSDK"]
+	path = Plugins/DisplayStylusSDK
+	url = https://github.com/antilatency/Antilatency.DisplayStylus.UE.SDK.git
